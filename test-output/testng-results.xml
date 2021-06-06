@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6597" started-at="2021-06-06T18:09:28 UTC" finished-at="2021-06-06T18:09:34 UTC">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6597" started-at="2021-06-06T18:09:28 UTC" finished-at="2021-06-06T18:09:34 UTC">
+      <class name="com.testcases.testLogin">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testcases.testLogin@4d41cee]" name="setup" is-config="true" duration-ms="2759" started-at="2021-06-06T18:09:28 UTC" finished-at="2021-06-06T18:09:31 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test_Home_Page_User_Correct()[pri:0, instance:com.testcases.testLogin@4d41cee]" name="test_Home_Page_User_Correct" duration-ms="522" started-at="2021-06-06T18:09:31 UTC" finished-at="2021-06-06T18:09:31 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Home_Page_User_Correct -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testcases.testLogin@4d41cee]" name="tearDown" is-config="true" duration-ms="132" started-at="2021-06-06T18:09:31 UTC" finished-at="2021-06-06T18:09:31 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testcases.testLogin@4d41cee]" name="setup" is-config="true" duration-ms="2487" started-at="2021-06-06T18:09:31 UTC" finished-at="2021-06-06T18:09:34 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test_Home_Page_AdminUser_Correct()[pri:1, instance:com.testcases.testLogin@4d41cee]" name="test_Home_Page_AdminUser_Correct" duration-ms="551" started-at="2021-06-06T18:09:34 UTC" finished-at="2021-06-06T18:09:34 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Home_Page_AdminUser_Correct -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testcases.testLogin@4d41cee]" name="tearDown" is-config="true" duration-ms="92" started-at="2021-06-06T18:09:34 UTC" finished-at="2021-06-06T18:09:34 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testcases.testLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
